@@ -1,0 +1,4 @@
+------------------------------------Facial Expression Recognition System-------------------------------
+-Run emotion-analysis.py by using command ->
+-python emotion-analysis.py
+-Save model files in same folder in which emotion-analysis.py is saved.
